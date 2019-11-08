@@ -25,6 +25,8 @@
 - [知乎上的知识图谱Topic](https://www.zhihu.com/topic/19838204/hot)
 - [知识上的语义网Topic](https://www.zhihu.com/topic/19551341/hot)
 - [知识图谱的构建流程？](https://www.zhihu.com/question/299907037)
+- [知识图谱怎样入门？](https://www.zhihu.com/question/52368821/answer/138745422)
+
 
 
 
