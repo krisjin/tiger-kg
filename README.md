@@ -42,6 +42,8 @@
 
 - [2018全国知识图谱与语义计算大会](http://www.ccks2018.cn/)
 - [2019全国知识图谱与语义计算大会](http://www.ccks2019.cn/)
+- [Collaborative Knowledge Base Embedding for
+Recommender Systems](https://www.kdd.org/kdd2016/papers/files/adf0066-zhangA.pdf)
 
 
 
