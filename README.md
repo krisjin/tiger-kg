@@ -65,3 +65,16 @@ Recommender Systems](https://www.kdd.org/kdd2016/papers/files/adf0066-zhangA.pdf
 - 基于Protege的本体知识构建
 
 
+
+
+
+
+ Graph analysis is possibly the single most effective competitive differentiator for organizations pursuing data-driven operations and decisions after the design of data capture.”
+ 
+ 
+ 
+ 
+ 
+ 对于已经准备好了数据之后，追求以数据驱动进行操作和决策的组织而言，基于图结构的数据分析可能是唯一最有效和具有竞争差异性的解决方案。
+  
+
