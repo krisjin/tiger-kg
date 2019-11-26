@@ -44,7 +44,7 @@
 - [2019全国知识图谱与语义计算大会](http://www.ccks2019.cn/)
 - [Collaborative Knowledge Base Embedding for
 Recommender Systems](https://www.kdd.org/kdd2016/papers/files/adf0066-zhangA.pdf)
-
+- [基于知识图谱注意力网络的商品推荐](https://arxiv.org/pdf/1905.07854.pdf)
 
 
 ### 5.算法
