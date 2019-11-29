@@ -49,43 +49,32 @@ Recommender Systems](https://www.kdd.org/kdd2016/papers/files/adf0066-zhangA.pdf
 
 ### 5.算法
 
- 图特征
- 树深度/宽度
- 图特征打包计算：节点数/边数/密度/节点度分布
- N-阶度
- HyperANF
- 节点中心性指标
- KCore
- Pagerank
- Closeness
- Betweenness
- 连通图 & 社团识别
- Connected-Component
- LPA
- HANP
- 图表示学习
- Node2Vec-Randomwalk
- Metapath-Randomwalk
- 聚类/分圈算法
- LDA
- FastUnfolding
- 其他图相关算法
- BFS
- 共同类计算
-即将开源的算法：
+* 图特征
+	* [树深度/宽度]
+	* [N-阶度]
+	* [HyperANF]
+* 节点中心性指标
+	* [KCore]
+	* [Pagerank]
+	* [Closeness]
+	* [Betweenness]
+* 连通图 & 社团识别
+	* [Connected-Component]
+	* [LPA](../example/lpa.cc)
+	* [HANP](../example/hanp.cc)
+* 图表示学习
+	* [Node2Vec-Randomwalk](../example/node2vec_randomwalk.cc)
+	* [Metapath-Randomwalk](../example/metapath_randomwalk.cc)
+* 聚类/分圈算法
+	* [FastUnfolding](../example/fast_unfolding_simple.cc)
+* 其他图相关算法
+	* [BFS](../example/bfs.cc)
+	* [共同类计算](../example/mutual.cc)
 
- Network Embedding
- LINE
- Word2Vec
- GraphVite
- GNN
- GCN
- GraphSage
+***Incoming:***
 
-Incoming:
-
-Word2Vec, Line, GraphVite
-GCN 相关
+* Word2Vec, Line, GraphVite
+* GCN 相关
 
 
 
