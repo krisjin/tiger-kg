@@ -68,8 +68,8 @@ Recommender Systems](https://www.kdd.org/kdd2016/papers/files/adf0066-zhangA.pdf
 * 聚类/分圈算法
 	* [FastUnfolding](../example/fast_unfolding_simple.cc)
 * 其他图相关算法
-	* [BFS](../example/bfs.cc)
-	* [共同类计算](../example/mutual.cc)
+	* BFS
+	* 共同类计算
 
 ***Incoming:***
 
