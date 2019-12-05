@@ -45,6 +45,8 @@
 - [Collaborative Knowledge Base Embedding for
 Recommender Systems](https://www.kdd.org/kdd2016/papers/files/adf0066-zhangA.pdf)
 - [基于知识图谱注意力网络的商品推荐](https://arxiv.org/pdf/1905.07854.pdf)
+- [Deep Neural Networks for YouTube Recommendations](http://static.googleusercontent.com/media/research.google.com/en//pubs/archive/45530.pdf)
+
 
 
 ### 5.算法
