@@ -47,6 +47,8 @@
 
 - [https://github.com/M0025/KnowledgeGraphOfA-shareCompanys](https://github.com/M0025/KnowledgeGraphOfA-shareCompanys)
 
+- [https://github.com/lihanghang/Knowledge-Graph](https://github.com/lihanghang/Knowledge-Graph)
+
 
 ### 4.会议&论文
 
