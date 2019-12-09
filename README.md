@@ -45,7 +45,7 @@
 
 - [https://github.com/shinezai/QASystemOnFinancialKG](https://github.com/shinezai/QASystemOnFinancialKG)
 
-
+- [https://github.com/M0025/KnowledgeGraphOfA-shareCompanys](https://github.com/M0025/KnowledgeGraphOfA-shareCompanys)
 
 
 ### 4.会议&论文
