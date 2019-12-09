@@ -37,6 +37,9 @@
 
 - [simple_movie_qa_with_KG](https://github.com/IrvingBei/simple_movie_qa_with_KG)
 
+- [https://github.com/sakuranew/BERT-AttributeExtraction](https://github.com/sakuranew/BERT-AttributeExtraction)
+
+
 
 ### 4.会议&论文
 
