@@ -32,13 +32,11 @@
 
 
 
-### 3.公众号
+### 3.Github
 
 
+- [](https://github.com/IrvingBei/simple_movie_qa_with_KG)
 
-### Github
-
-https://github.com/IrvingBei/simple_movie_qa_with_KG
 
 ### 4.会议&论文
 
