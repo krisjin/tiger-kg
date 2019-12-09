@@ -39,6 +39,7 @@
 
 - [https://github.com/sakuranew/BERT-AttributeExtraction](https://github.com/sakuranew/BERT-AttributeExtraction)
 
+- [https://github.com/SimmerChan/KG-demo-for-movie](https://github.com/SimmerChan/KG-demo-for-movie)
 
 
 ### 4.会议&论文
