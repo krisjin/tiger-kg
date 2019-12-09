@@ -43,6 +43,10 @@
 
 - [https://github.com/YeYzheng/KGQA-Based-On-medicine](https://github.com/YeYzheng/KGQA-Based-On-medicine)
 
+- [https://github.com/shinezai/QASystemOnFinancialKG](https://github.com/shinezai/QASystemOnFinancialKG)
+
+
+
 
 ### 4.会议&论文
 
