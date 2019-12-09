@@ -41,6 +41,8 @@
 
 - [https://github.com/SimmerChan/KG-demo-for-movie](https://github.com/SimmerChan/KG-demo-for-movie)
 
+- [https://github.com/YeYzheng/KGQA-Based-On-medicine](https://github.com/YeYzheng/KGQA-Based-On-medicine)
+
 
 ### 4.会议&论文
 
