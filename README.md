@@ -51,6 +51,9 @@
 
 - [东南大学《知识图谱》研究生课程](https://github.com/npubird/KnowledgeGraphCourse)
 
+- [知识图谱相关学习资料](https://github.com/husthuke/awesome-knowledge-graph)
+
+
 
 
 
