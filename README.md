@@ -49,6 +49,11 @@
 
 - [https://github.com/lihanghang/Knowledge-Graph](https://github.com/lihanghang/Knowledge-Graph)
 
+- [东南大学《知识图谱》研究生课程](https://github.com/npubird/KnowledgeGraphCourse)
+
+
+
+
 
 ### 4.会议&论文
 
