@@ -145,5 +145,5 @@ Graph analysis is possibly the single most effective competitive differentiator 
  
  
  
-  
+  https://www.csie.ntu.edu.tw/~b97053/paper/Rendle2010FM.pdf
 
