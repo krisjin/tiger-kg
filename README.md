@@ -55,6 +55,9 @@
 
 - [农业知识图谱](https://github.com/qq547276542/Agriculture_KnowledgeGraph)
 
+- [农业知识图谱](https://github.com/wainshine/Company-Names-Corpus)
+
+
 
 
 
