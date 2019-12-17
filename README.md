@@ -55,7 +55,7 @@
 
 - [农业知识图谱](https://github.com/qq547276542/Agriculture_KnowledgeGraph)
 
-- [农业知识图谱](https://github.com/wainshine/Company-Names-Corpus)
+- [公司名语料库。机构名语料库。公司简称,缩写,品牌词,企业名。可用于中文分词、机构名实体识别](https://github.com/wainshine/Company-Names-Corpus)
 
 - [中文突发事件语料库（Chinese Emergency Corpus）-上海大学-语义智能实验室](https://github.com/shijiebei2009/CEC-Corpus)
 
