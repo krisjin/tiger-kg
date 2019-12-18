@@ -147,8 +147,12 @@ Graph analysis is possibly the single most effective competitive differentiator 
  
  - dfda
  
- 
+ https://arxiv.org/pdf/1606.07792.pdf
  
  
   https://www.csie.ntu.edu.tw/~b97053/paper/Rendle2010FM.pdf
+  
+## 推荐系统Paper
+- [Wide & Deep Learning for Recommender Systems](https://arxiv.org/pdf/1606.07792.pdf)
+
 
