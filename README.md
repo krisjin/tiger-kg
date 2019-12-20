@@ -62,6 +62,7 @@
 - [Awesome Knowledge Distillation](https://github.com/dkozlov/awesome-knowledge-distillation)
 
 
+- [史上最大规模1.4亿知识图谱数据免费下载](https://github.com/ownthink/KnowledgeGraph)
 
 
 
