@@ -64,6 +64,9 @@
 
 - [史上最大规模1.4亿知识图谱数据免费下载](https://github.com/ownthink/KnowledgeGraph)
 
+- [知识图谱车音工作项目](https://github.com/qiu997018209/KnowledgeGraph)
+
+
 
 
 
