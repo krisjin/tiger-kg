@@ -163,3 +163,5 @@ Graph analysis is possibly the single most effective competitive differentiator 
 - [Wide & Deep Learning for Recommender Systems](https://arxiv.org/pdf/1606.07792.pdf)
 
 
+https://engineering.fb.com/core-data/recommending-items-to-more-than-a-billion-people/
+
