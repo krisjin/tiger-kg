@@ -66,7 +66,7 @@
 
 - [知识图谱车音工作项目](https://github.com/qiu997018209/KnowledgeGraph)
 
-
+- [用于医疗领域的知识图谱构建，通过DL中的相关算法，实现领域实体的命名实体识别和关系抽取。](https://github.com/anxiang1836/insurance_ner_nre)
 
 
 
