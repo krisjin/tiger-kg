@@ -68,6 +68,7 @@
 
 - [用于医疗领域的知识图谱构建，通过DL中的相关算法，实现领域实体的命名实体识别和关系抽取。](https://github.com/anxiang1836/insurance_ner_nre)
 
+- [基于在线民宿UGC数据的意见挖掘项目](https://github.com/CarryChang/Customer_Satisfaction_Analysis)
 
 
 
