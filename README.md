@@ -71,6 +71,7 @@
 - [基于在线民宿UGC数据的意见挖掘项目](https://github.com/CarryChang/Customer_Satisfaction_Analysis)
 
 
+- [农业领域知识图谱的构建](https://github.com/zhangyqCS/KnowledgeGraph_Agriculture)
 
 
 ### 4.会议&论文
