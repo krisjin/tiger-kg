@@ -170,3 +170,4 @@ https://engineering.fb.com/core-data/recommending-items-to-more-than-a-billion-p
 - [Real-time Personalization using Embeddings for Search Ranking at Airbnb](https://astro.temple.edu/~tua95067/kdd2018.pdf)
 
 
+推荐系统中不得不说的DSSM双塔模型
