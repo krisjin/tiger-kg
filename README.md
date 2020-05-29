@@ -171,3 +171,5 @@ https://engineering.fb.com/core-data/recommending-items-to-more-than-a-billion-p
 
 
 推荐系统中不得不说的DSSM双塔模型
+
+Google工业风最新论文, Youtube提出双塔结构流式模型进行大规模推荐
