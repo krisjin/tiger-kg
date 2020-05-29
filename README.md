@@ -167,3 +167,6 @@ Graph analysis is possibly the single most effective competitive differentiator 
 
 https://engineering.fb.com/core-data/recommending-items-to-more-than-a-billion-people/
 
+
+
+Real-time Personalization using Embeddings for Search Ranking at Airbnb 
