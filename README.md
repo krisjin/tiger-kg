@@ -170,6 +170,11 @@ https://engineering.fb.com/core-data/recommending-items-to-more-than-a-billion-p
 - [Real-time Personalization using Embeddings for Search Ranking at Airbnb](https://astro.temple.edu/~tua95067/kdd2018.pdf)
 
 
+
+文章
+https://www.infoq.cn/article/d6B7B9DD-Nc4SruOb27B
+
+
 推荐系统中不得不说的DSSM双塔模型
 
 Google工业风最新论文, Youtube提出双塔结构流式模型进行大规模推荐
