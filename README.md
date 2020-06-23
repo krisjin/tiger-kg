@@ -175,6 +175,9 @@ https://engineering.fb.com/core-data/recommending-items-to-more-than-a-billion-p
 
 https://www.infoq.cn/article/d6B7B9DD-Nc4SruOb27B
 
+https://arxiv.org/pdf/1106.5730.pdf
+Hogwild!: A Lock-Free Approach to Parallelizing Stochastic
+Gradient Descent
 
 推荐系统中不得不说的DSSM双塔模型
 
