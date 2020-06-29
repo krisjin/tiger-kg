@@ -182,3 +182,7 @@ Gradient Descent
 推荐系统中不得不说的DSSM双塔模型
 
 Google工业风最新论文, Youtube提出双塔结构流式模型进行大规模推荐
+
+
+
+https://arxiv.org/pdf/2006.12715.pdf 高德KDD2020论文解读|混合时空图卷积网络：更精准的时空预测模型
