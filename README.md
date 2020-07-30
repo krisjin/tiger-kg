@@ -189,3 +189,7 @@ https://arxiv.org/pdf/2006.12715.pdf 高德KDD2020论文解读|混合时空图�
 
 
 JASSjr: The Minimalistic BM25 Search Engine for Teaching and Learning Information Retrieval
+
+
+A Machine Learning Approach for Improved BM25 Retrieval
+https://www.microsoft.com/en-us/research/wp-content/uploads/2016/02/LearningBM25MSRTechReport.pdf
