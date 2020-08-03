@@ -193,3 +193,7 @@ JASSjr: The Minimalistic BM25 Search Engine for Teaching and Learning Informatio
 
 A Machine Learning Approach for Improved BM25 Retrieval
 https://www.microsoft.com/en-us/research/wp-content/uploads/2016/02/LearningBM25MSRTechReport.pdf
+
+EdgeRec: Recommender System on Edge in Mobile Taobao
+
+https://arxiv.org/pdf/2005.08416.pdf
