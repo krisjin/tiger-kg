@@ -197,3 +197,5 @@ https://www.microsoft.com/en-us/research/wp-content/uploads/2016/02/LearningBM25
 EdgeRec: Recommender System on Edge in Mobile Taobao
 
 https://arxiv.org/pdf/2005.08416.pdf
+
+- https://arxiv.org/pdf/1901.08286.pdf Neural IR Meets Graph Embedding:A Ranking Model for Product Search
