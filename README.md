@@ -1,38 +1,20 @@
-# 知识图谱
 
 
-
-## 导航列表
-
+## 知识图谱相关资料
 
 
-### 1.社区
 
 - [OpenKG.cn开放的知识图谱社区](http://blog.openkg.cn/)
 - [百度AI知识图谱技术社区](https://ai.baidu.com/forum/topic/list/174/0)
 - [云栖社区知识图谱](https://yq.aliyun.com/tags/type_blog-tagid_17200/?spm=a2c4e.11153940.blogcont208444.7.da357c34K3yOPj)
 - [TinyMind.cn知识图谱文章](https://www.tinymind.cn/search?filter=%E7%9F%A5%E8%AF%86%E5%9B%BE%E8%B0%B1)
-- 
 
-
-
-
-
-
-
-### 2.文章
 
 - [知乎上的知识图谱Topic](https://www.zhihu.com/topic/19838204/hot)
 - [知识上的语义网Topic](https://www.zhihu.com/topic/19551341/hot)
 - [知识图谱的构建流程？](https://www.zhihu.com/question/299907037)
 - [知识图谱怎样入门？](https://www.zhihu.com/question/52368821/answer/138745422)
 - [藏经阁计划发布一年，阿里知识引擎有哪些技术突破？](https://yq.aliyun.com/articles/696145?utm_content=g_1000049786)
-
-
-
-
-
-### 3.Github
 
 
 - [simple_movie_qa_with_KG](https://github.com/IrvingBei/simple_movie_qa_with_KG)
@@ -73,9 +55,6 @@
 
 - [农业领域知识图谱的构建](https://github.com/zhangyqCS/KnowledgeGraph_Agriculture)
 
-
-### 4.会议&论文
-
 - [2018全国知识图谱与语义计算大会](http://www.ccks2018.cn/)
 - [2019全国知识图谱与语义计算大会](http://www.ccks2019.cn/)
 - [Collaborative Knowledge Base Embedding for
@@ -85,7 +64,7 @@ Recommender Systems](https://www.kdd.org/kdd2016/papers/files/adf0066-zhangA.pdf
 
 
 
-### 5.算法
+##### 图算法
 
 * 图特征
 	* [树深度/宽度]
@@ -116,13 +95,16 @@ Recommender Systems](https://www.kdd.org/kdd2016/papers/files/adf0066-zhangA.pdf
 
 
 
-### 6.图数据
+##### 图数据库
+1. aa
+2. bb
 
 
 
-## 7.图谱应用
+#####  知识图谱应用
 
-### 中文医学知识图谱CMeKG1.0
+
+中文医学知识图谱CMeKG1.0
 
 由鹏城实验室人工智能研究中心智慧医疗课题组、北京大学计算语言学研究所、郑州大学自然语言处理实验室联合开发的中文医学知识图谱CMeKG（Chinese Medical Knowledge Graph）1.0发布，面向公众正式开放试用。CMeKG是利用自然语言处理与文本挖掘技术，基于大规模医学文本数据，以人机结合的方式研发的中文医学知识图谱。CMeKG的构建参考了ICD、ATC、SNOMED、MeSH等权威的国际医学标准以及规模庞大、多源异构的临床指南、行业标准、诊疗规范与医学百科等医学文本信息。
 
@@ -133,35 +115,31 @@ http://cmekg.pcl.ac.cn/
 
 
 
-### 8.工具
+##### 图谱构建工具
 
 - 基于Protege的本体知识构建
 
+ 
+
+
+
+ ## 搜索系统相关
 
 
 
 
 
-Graph analysis is possibly the single most effective competitive differentiator for organizations pursuing data-driven operations and decisions after the design of data capture.”
- 
- 
- 
- 
- 
- 对于已经准备好了数据之后，追求以数据驱动进行操作和决策的组织而言，基于图结构的数据分析可能是唯一最有效和具有竞争差异性的解决方案。
- 
- 
- 
- ## 文章资料
- 
- - dfda
- 
  https://arxiv.org/pdf/1606.07792.pdf
- 
- 
+
   https://www.csie.ntu.edu.tw/~b97053/paper/Rendle2010FM.pdf
-  
-## 推荐系统Paper
+
+
+
+
+
+
+
+## 推荐系统相关
 - [Wide & Deep Learning for Recommender Systems](https://arxiv.org/pdf/1606.07792.pdf)
 
 
@@ -189,7 +167,6 @@ https://arxiv.org/pdf/2006.12715.pdf 高德KDD2020论文解读|混合时空图�
 
 
 JASSjr: The Minimalistic BM25 Search Engine for Teaching and Learning Information Retrieval
-
 
 A Machine Learning Approach for Improved BM25 Retrieval
 https://www.microsoft.com/en-us/research/wp-content/uploads/2016/02/LearningBM25MSRTechReport.pdf
