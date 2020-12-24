@@ -62,7 +62,7 @@ Recommender Systems](https://www.kdd.org/kdd2016/papers/files/adf0066-zhangA.pdf
 - [基于知识图谱注意力网络的商品推荐](https://arxiv.org/pdf/1905.07854.pdf)
 - [Deep Neural Networks for YouTube Recommendations](http://static.googleusercontent.com/media/research.google.com/en//pubs/archive/45530.pdf)
 - [QA-Survey](https://github.com/BDBC-KG-NLP/QA-Survey)
-- [CCKS 2020：新冠知识图谱构建与问答评测](https://github.com/WangShengguang/ccks-2020}
+- [CCKS 2020：新冠知识图谱构建与问答评测](https://github.com/WangShengguang/ccks-2020)
 
 
 
