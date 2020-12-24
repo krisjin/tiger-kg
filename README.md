@@ -78,13 +78,13 @@ Recommender Systems](https://www.kdd.org/kdd2016/papers/files/adf0066-zhangA.pdf
 	* [Betweenness]
 * 连通图 & 社团识别
 	* [Connected-Component]
-	* [LPA](../example/lpa.cc)
-	* [HANP](../example/hanp.cc)
+	* [LPA]
+	* [HANP]
 * 图表示学习
-	* [Node2Vec-Randomwalk](../example/node2vec_randomwalk.cc)
-	* [Metapath-Randomwalk](../example/metapath_randomwalk.cc)
+	* [Node2Vec-Randomwalk]
+	* [Metapath-Randomwalk]
 * 聚类/分圈算法
-	* [FastUnfolding](../example/fast_unfolding_simple.cc)
+	* [FastUnfolding]
 * 其他图相关算法
 	* BFS
 	* 共同类计算
