@@ -63,6 +63,7 @@ Recommender Systems](https://www.kdd.org/kdd2016/papers/files/adf0066-zhangA.pdf
 - [Deep Neural Networks for YouTube Recommendations](http://static.googleusercontent.com/media/research.google.com/en//pubs/archive/45530.pdf)
 - [QA-Survey](https://github.com/BDBC-KG-NLP/QA-Survey)
 - [CCKS 2020：新冠知识图谱构建与问答评测](https://github.com/WangShengguang/ccks-2020)
+- [awesome_Chinese_medical_NLP](https://github.com/GanjinZero/awesome_Chinese_medical_NLP)
 
 
 
