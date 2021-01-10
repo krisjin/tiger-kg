@@ -64,6 +64,7 @@ Recommender Systems](https://www.kdd.org/kdd2016/papers/files/adf0066-zhangA.pdf
 - [QA-Survey](https://github.com/BDBC-KG-NLP/QA-Survey)
 - [CCKS 2020：新冠知识图谱构建与问答评测](https://github.com/WangShengguang/ccks-2020)
 - [awesome_Chinese_medical_NLP](https://github.com/GanjinZero/awesome_Chinese_medical_NLP)
+- [ChineseDiachronicCorpus，中文历时语料库，横跨六十余年，包括腾讯历时新闻2000-2016，人民日报历时语料1946-2003，参考消息历时语料1957-2002。基于历时流通语料库，可用于历时语言变化计算、语言监测、社会文化变迁研究提供基础性的语料支持。](https://github.com/liuhuanyong/ChineseDiachronicCorpus)
 
 
 
