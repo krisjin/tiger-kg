@@ -54,6 +54,7 @@
 
 
 - [农业领域知识图谱的构建](https://github.com/zhangyqCS/KnowledgeGraph_Agriculture)
+- [基于知识图谱的问答系统，BERT做命名实体识别和句子相似度，分为online和outline模式](https://github.com/WenRichard/KBQA-BERT)
 
 - [2018全国知识图谱与语义计算大会](http://www.ccks2018.cn/)
 - [2019全国知识图谱与语义计算大会](http://www.ccks2019.cn/)
