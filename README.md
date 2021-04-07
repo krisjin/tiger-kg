@@ -195,3 +195,7 @@ https://arxiv.org/pdf/2005.08416.pdf
 ## bert相关
 
 - https://github.com/danan0755/Bert_Classifier
+
+
+
+- https://github.com/InsaneLife/ChineseNLPCorpus
